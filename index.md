@@ -25,10 +25,10 @@ Lazy boy doesn't want to leave any Personal description 👀, feel free to conne
 
 # Education background
 ## Xi'an Jiaotong University (Dual-Degree Program)                                                         2020.09-2024.06
-        First major: 			  Xi'an Jiaotong University                     		Automation (A+)	
-        Second major: 			Xi'an Jiaotong University                      	  Accounting - ACCA direction (QS-5stars)
-   **Credit score: 		      GPA 3.92; Score 90.99/100;						            top 5% of over 190 people         
-     Language score : 	    IELTS 7.0									                        GRE is being prepared
+    * First major: 			  Xi'an Jiaotong University                     		Automation (A+)	
+    * Second major: 			Xi'an Jiaotong University                      	  Accounting - ACCA direction (QS-5stars)
+   **Credit score: GPA 3.92; Score 90.99/100; top 5% of over 190 people**         
+   **Language score : 	    IELTS 7.0**
      Main courses and awards:**
         1st year: 	Linear Algebra and Analytic Geometry (96) 		Fundamentals of Engineering Mathematical Analysis (91)
                     Python Data Processing (96) 					        Big Data and Engineering Applied Data Mining (98)
