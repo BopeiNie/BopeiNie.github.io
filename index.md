@@ -32,7 +32,7 @@ Xi'an Jiaotong University (Dual-Degree Program) 2020.09-2024.06
 The University of Hong Kong (HKUWW exchange program) 2023.01-On Going                 
 University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going                   
 
----
+
 
 # Competitions Awards
 1. Dream Cup National Undergraduate Intelligent Hardware Design Competition 2021.09-2022.02       
@@ -46,7 +46,7 @@ University of New South Wales Sydney (APRU Online Single Course Exchange Program
 * Provincial First Prize of China National Undergraduate Mathematical Contest in Modeling                          
 * Participate in 2023 Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)                      
 
----
+
 
 # Research and Engineering Practice         
 ###  Research project on multi-model feature integration and image generation 2023.03-On Going            
