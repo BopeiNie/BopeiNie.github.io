@@ -5,13 +5,14 @@
       <h1>Wenshuo ZHANG</h1>
       <p><b>Undergraduate Student</b></p>
       <p><b>Automation, Faculty of Electronic and Information Engineering, Xi'an Jiaotong University</b></p>
-      <p><b>Mail：zhang_wenshuo@foxmail.com (You can also connect me at wsZHANG0626@gmail.com)</b></p>
-      <p><b>Past Area: UAV, Machine learning, Deep learning(Graph-NN)</b></p>
+      <p><b>Mail：zhang_wenshuo@foxmail.com 
+      <p><b>(You can also connect me at wsZHANG0626@gmail.com)</b></p>
+      <p><b>Past Area: UAV, Machine Learning for Finance, Deep Learning(Graph-NN)</b></p>
       <p><b>Current Area: AIGC for iamge</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/WenshuoZHANG.jpg" width="100%">
     </td>
   </tr>
 </table>
