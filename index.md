@@ -83,7 +83,7 @@ School of Automation Science and Engineering, XJTU Engineer Yuan LIU
 #### Publishment “UAV swarm positioning and scheduling method from the perspective of pure orientation passive positioning”
 * We discusses the positioning and swarm formation scheduling of UAVs based only on azimuth information.
 * Three issues were discussed: the minimum number of signal source UAV sorties when a single UAV is positioned; how the UAV can determine its own position under the guidance of three known-location signal source UAVs; How to carry out large-scale inter-UAV position sharing between each other and batch scheduling while maintaining the number of signals source UAVs is the lowest number.
-* The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI.
+* The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI. https://ieeexplore.ieee.org/document/10082189
 
 
 ### Stock Portfolio Design Based on Machine Learning and Optimization Scheme 2022.04-2022.06
