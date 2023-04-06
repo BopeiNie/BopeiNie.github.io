@@ -24,42 +24,21 @@ Lazy boy doesn't want to leave any Personal description 👀, feel free to conne
 ---
 
 # Education background
-### Xi'an Jiaotong University (Dual-Degree Program) 2020.09-2024.06     
-* First major: Xi'an Jiaotong University, Automation (A+)	    
-* Second major: Xi'an Jiaotong University, Accounting - ACCA direction (QS-5stars)       
-**Credit score: GPA 3.92; Score 90.99/100; top 5% of over 190 people**         
-**Language score: IELTS 7.0**        
-**Some Awards:**     
-* Xi'an Jiaotong University 2021 University-level outstanding student leaders (**Top 5% U-wide**)     
-* Jianbing Alumni Inspirational Scholarship (Harder than the Chinese National Scholarship, **Top 1%**)        
-* Xi'an Jiaotong University 2022 school-level outstanding students (**Top 10% U-wide**)         
-* Academic Scholarship of Xi’an Jiaotong University (**Top 10%**)        
+### Xi'an Jiaotong University (Dual-Degree Program) 2020.09-2024.06           
 ### The University of Hong Kong (HKUWW exchange program) 2023.01-On Going
-* Exchange Major:			The University of Hong Kong						Electronic Engineering
 ### University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going
-* Exchange Course:		COMM1000 Creating Social Change: From Innovation to Impact - 2023
 
 
 # Competitions Awards
 ### 1. Dream Cup National Undergraduate Intelligent Hardware Design Competition 2021.09-2022.02           
-Team up with 2 other fellow students to participate in the competition to solve problems of theoretical knowledge, circuit design, and embedded (MCU) system programming, using STC51 single chip.
-
-
 ### 2. Participated in the Tengfei Cup and National Semi-final of “Suzhou Cup” 2020.09-2022.04, 2022.04-2022.08
-#### 1) Two third class prizes in the Tengfei Cup, one bronze award and one gold award in the Entrepreneurship Track**              
-* Respectively for Internet + medical, smart wearable devices, urban community improvement, lithium battery recycling               
-* Mainly responsible for the writing of the business plan, which is related to accounting (My Second Major). Use many businesses model including SWOT, Porter's five forces model, etc., and I carry out risk control at the same time.         
-#### 2) Outstanding Creative Award in the National Semi-final of “Suzhou Cup”**              
-* The ‘lithium battery recycling Programme’ participated in ‘Suzhou Youth Elite Entrepreneurship Competition’, we entered the national semi-finals and won the Outstanding Creative Award.
-
+#### Two third class prizes in the Tengfei Cup, one bronze award and one gold award in the Entrepreneurship Track**              
+#### Outstanding Creative Award in the National Semi-final of “Suzhou Cup”**              
 ### 3. The Mathematical Modeling Competition Award 2021.11-2022.03, 2022.08-2022.09, 2023.02-On Going   
-#### 1) The H Award in Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)     
-* Aiming at the evaluation and optimization of port traffic capacity, we used graph theory and other methods including hierarchical clustering to model port capacity. Constructed a hybrid optimization plan for ports and give the port a boost in utility.          
-#### 2) Provincial First Prize of China National Undergraduate Mathematical Contest in Modeling          
-* We established a micro-variable positioning model based on alternating flicker from the perspective of pure orientation passive positioning and a batch-based UAV scheduling model based on deduction.           
-#### 3) Participate in 2023 Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)            
-* Final prize has not been released         
-* We aim to analysis of relationships between plant biodiversity and drought. We proposed our model “resistance based on difference equation and finite element simulation”, which gives a way to tell how a plant community adapts when exposed to cycles of drought over successive generations under different conditions like plant kinds, precipitation conditions and Interspecific relationships.
+#### The H Award in Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)             
+#### Provincial First Prize of China National Undergraduate Mathematical Contest in Modeling                   
+#### Participate in 2023 Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)            
+
 
 # Research and Engineering Practice         
 ### 1. Research project on multi-model feature integration and image generation 2023.03-On Going            
