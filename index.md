@@ -30,10 +30,10 @@ Lazy boy doesn't want to leave any Personal description 👀, feel free to conne
 **Credit score: GPA 3.92; Score 90.99/100; top 5% of over 190 people**         
 **Language score: IELTS 7.0**        
 **Some Awards:**     
-* Xi'an Jiaotong University 2021 University-level outstanding student leaders (**Top 5% U-wide**)     
-* Jianbing Alumni Inspirational Scholarship (Harder than the Chinese National Scholarship, **Top 1%**)        
-* Xi'an Jiaotong University 2022 school-level outstanding students (**Top 10% U-wide**)         
-* Academic Scholarship of Xi’an Jiaotong University (**Top 10%**)      
+    * Xi'an Jiaotong University 2021 University-level outstanding student leaders (**Top 5% U-wide**)     
+    * Jianbing Alumni Inspirational Scholarship (Harder than the Chinese National Scholarship, **Top 1%**)        
+    * Xi'an Jiaotong University 2022 school-level outstanding students (**Top 10% U-wide**)         
+    * Academic Scholarship of Xi’an Jiaotong University (**Top 10%**)      
 ## The University of Hong Kong (HKUWW exchange program) 2023.01-On Going
 * Exchange Major:			The University of Hong Kong						Electronic Engineering
 ## University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going
