@@ -29,7 +29,9 @@ Xi'an Jiaotong University (Dual-Degree Program) 2020.09-2024.06
 * Accounting    
       
 The University of Hong Kong (HKUWW exchange program) 2023.01-On Going                 
-University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going                   
+University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going  
+
+---
 
 # Competitions Awards
 1. Dream Cup National Undergraduate Intelligent Hardware Design Competition 2021.09-2022.02       
@@ -43,6 +45,8 @@ University of New South Wales Sydney (APRU Online Single Course Exchange Program
 * Provincial First Prize of China National Undergraduate Mathematical Contest in Modeling                          
 * Participate in 2023 Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)                      
 
+---
+
 # Research and Engineering Practice         
 1. Research project on multi-model feature integration and image generation 2023.03-On Going            
 * Dept. of Electrical and Electronic Engineering, University of Hong Kong.         Prof. Xiaojuan QI        
@@ -50,20 +54,19 @@ University of New South Wales Sydney (APRU Online Single Course Exchange Program
 2. Research projects on graph neural network and graph Contrastive learning 2022.10–On Going        
 * Ministry of Education Key Lab For Intelligence Networks and Network Security, XJTU.        Prof. Pinghui WANG        
 
-3. Unmanned aerial vehicles related programme 2022.03-2022.09
-* School of Automation Science and Engineering, XJTU.        Engineer Yuan LIU           
+3. Participated in the debugging and experiment of quadrotor UAV
+* School of Automation Science and Engineering, XJTU.        Engineer Yuan LIU  
 
-1) Participated in the debugging and experiment of quadrotor UAV
-2) Publishment “UAV swarm positioning and scheduling method from the perspective of pure orientation passive positioning”
+4. Publishment “UAV swarm positioning and scheduling method from the perspective of pure orientation passive positioning”
+* School of Automation Science and Engineering, XJTU.        Engineer Yuan LIU  
 * The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI.             
 * **Link: https://ieeexplore.ieee.org/document/10082189**
 
-4. Stock Portfolio Design Based on Machine Learning and Optimization Scheme 2022.04-2022.06
+5. Stock Portfolio Design Based on Machine Learning and Optimization Scheme 2022.04-2022.06
 * Institute of Systems Engineering, XJTU.        Prof. Hongxing YE
 
-5. Leadership in winter and summer social practical research 2020.11-2021.03, 2021.06-2021.09
-1) The survey on SEL children's social emotions and the Internet plus medical research in Xiejiasi Village in 2021.
+6. The survey on SEL children's social emotions and the Internet plus medical research in Xiejiasi Village in 2021.
 * School of economics and finance of Xi’an Jiaotong University.        Prof. Lihua WANG
 
-2) The carbon price prediction based on the Radial basis neural networks
+7. The carbon price prediction based on the Radial basis neural networks
 * School of economics and finance of Xi’an Jiaotong University.        Prof. Chunyan ZHAO
