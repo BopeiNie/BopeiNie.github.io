@@ -55,7 +55,8 @@ University of New South Wales Sydney (APRU Online Single Course Exchange Program
 
 #### 1) Participated in the debugging and experiment of quadrotor UAV
 #### 2) Publishment “UAV swarm positioning and scheduling method from the perspective of pure orientation passive positioning”
-* The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI. https://ieeexplore.ieee.org/document/10082189
+* The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI.             
+* **Link: https://ieeexplore.ieee.org/document/10082189**
 
 ### Stock Portfolio Design Based on Machine Learning and Optimization Scheme 2022.04-2022.06
 * Institute of Systems Engineering, XJTU.        Prof. Hongxing YE
