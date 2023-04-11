@@ -6,8 +6,6 @@
       <p><b>Undergraduate Student</b></p>
       <p><b>Mathematical economics and finance, Jinhe Economic Research Center, Xi'an Jiaotong University</b></p>
       <p><b>Mail：niebopei@163.com / niebopei@gmail.com</b></p>
-      <p><b>Past Area: UAV, Machine Learning for Finance, Deep Learning(Graph-NN)</b></p>
-      <p><b>Current Area: AIGC for iamge</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -19,17 +17,19 @@
 
 ---
 
-Lazy boy doesn't want to leave any Personal description 👀, feel free to connect me if you have any question✌️(An outgoing boy I think).
+Lazy girl doesn't want to leave any personal description 👀, feel free to reach me if you have any question✌️.
 
 ---
 
 # Education background
-Xi'an Jiaotong University (Dual-Degree Program) 2020.09-2024.06   
-* Automation               
-* Accounting    
+Xi'an Jiaotong University   09/2020-05/2024  
+* Mathematical economics and finance                  
       
-The University of Hong Kong (HKUWW exchange program) 2023.01-On Going                 
-University of New South Wales Sydney (APRU Online Single Course Exchange Program) 2023.02-On Going  
+The University of Hong Kong (exchange program)   09/2021-12/2021  
+Courses: Data Structures and Algorithms, Microeconomics, Macroeconomics, Probability Theory.
+
+The University of Pennsylvania (visiting program)   01/2023-05/2023
+Courses: Stochastic process and simulation, Partial Differential Equations, Modern Data Mining, International finace.
 
 ---
 
