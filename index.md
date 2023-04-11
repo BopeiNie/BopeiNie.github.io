@@ -26,10 +26,10 @@ Xi'an Jiaotong University   09/2020-05/2024
 * Mathematical economics and finance                  
       
 The University of Hong Kong (exchange program)   09/2021-12/2021  
-Courses: Data Structures and Algorithms, Microeconomics, Macroeconomics, Probability Theory.
+* Courses: Data Structures and Algorithms, Microeconomics, Macroeconomics, Probability Theory.
 
 The University of Pennsylvania (visiting program)   01/2023-05/2023
-Courses: Stochastic process and simulation, Partial Differential Equations, Modern Data Mining, International finace.
+* Courses: Stochastic process and simulation, Partial Differential Equations, Modern Data Mining, International finace.
 
 ---
 
