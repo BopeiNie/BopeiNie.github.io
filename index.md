@@ -9,7 +9,7 @@
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/White_zjj.jpg" width="100%">
+      <img src="/聂博佩照片20230111.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -33,40 +33,49 @@ Courses: Stochastic process and simulation, Partial Differential Equations, Mode
 
 ---
 
-# Competitions Awards
-1. Dream Cup National Undergraduate Intelligent Hardware Design Competition 2021.09-2022.02       
-    
-2. Participated in the Tengfei Cup and National Semi-final of “Suzhou Cup” 2020.09-2022.04, 2022.04-2022.08          
-* Two third class prizes in the Tengfei Cup, one bronze award and one gold award in the Entrepreneurship Track                     
-* Outstanding Creative Award in the National Semi-final of “Suzhou Cup”     
-               
-3. The Mathematical Modeling Competition Award 2021.11-2022.03, 2022.08-2022.09, 2023.02-On Going           
-* The H Award in Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)                    
-* Provincial First Prize of China National Undergraduate Mathematical Contest in Modeling                          
-* Participate in 2023 Mathematical Contest in Modeling/ The Interdisciplinary Contest in Modeling (MCM/ICM)                      
+# Internship Experience
+
+Tianjin Yingcheng Investment Management Co., Ltd; Quantitative Investment Researcher 07/2022-09/2022
+
+* Wrote several reports for the conference, analyzed the performance of products from the perspective of strategy principles, including factors, portfolio, trading, risk control, appropriate market environment level, manager profile, product returns, retracements, and correlations, exposure of positions to sectors, style factors, fundamentals. 
+* Studied quantitative investment-related theories, including but not limited to financial time series analysis and portfolio
+optimization, collected research reports, and assisted in completing strategy reports.
 
 ---
 
-# Research and Engineering Practice         
-1. Research project on multi-model feature integration and image generation 2023.03-On Going            
-* Dept. of Electrical and Electronic Engineering, University of Hong Kong.         Prof. Xiaojuan QI        
+# Research         
+1. ESG-based Research on Bond Default Risk of Listed Companies; Team Leader 06/2022-Present 
+* Studied the factors that affect the default risk of listed companies' bonds, used annual data of listed companies and ESG ratings to study the relationship between ESG and bond default risk, and tested the results with econometric methods. 
+* As the team leader, collected data on the social aspects of ESG, and used machine learning to establish an evaluation system of the default risk of bonds based on ESG ratings. 
 
-2. Research projects on graph neural network and graph Contrastive learning 2022.10–On Going        
-* Ministry of Education Key Lab For Intelligence Networks and Network Security, XJTU.        Prof. Pinghui WANG        
+2. Research on Intra-weekly Effects in Commodity Market Based on HAR-RV Model 02/2021-06/2021
+* Conducted an econometric analysis of Chinese iron ore futures prices using the HAR-RV model, and verified intra-week effects and momentum effects on futures prices, using Stata for data processing.
 
-3. Participated in the debugging and experiment of quadrotor UAV
-* School of Automation Science and Engineering, XJTU.        Engineer Yuan LIU  
+---
 
-4. Publishment “UAV swarm positioning and scheduling method from the perspective of pure orientation passive positioning”
-* School of Automation Science and Engineering, XJTU.        Engineer Yuan LIU  
-* The paper is published on “2023 IEEE 6th Information Technology, Networking, Electronic and Automation Control Conference”, which is Retrieved by EI.             
-* **Link: https://ieeexplore.ieee.org/document/10082189**
+# Publication
 
-5. Stock Portfolio Design Based on Machine Learning and Optimization Scheme 2022.04-2022.06
-* Institute of Systems Engineering, XJTU.        Prof. Hongxing YE
+Published a paper, An Empirical Study on the Day-of-the-Week Effect of China's Iron Ore Futures Based on the HAR- RV, accepted by the International Conference on Finance, Investment, and Business Analysis in 2022.
 
-6. The survey on SEL children's social emotions and the Internet plus medical research in Xiejiasi Village in 2021.
-* School of economics and finance of Xi’an Jiaotong University.        Prof. Lihua WANG
+---
 
-7. The carbon price prediction based on the Radial basis neural networks
-* School of economics and finance of Xi’an Jiaotong University.        Prof. Chunyan ZHAO
+# Competitions Awards
+1. Second Prize of National Student Mathematical Modeling Competition 09/2022
+* Applied the K-Means++ model to classify 58 artifacts based on data such as chemical composition, and excavation color of glass artifacts, conducted correct categorization of 8 unknown samples based on model classification results. 
+* Responsible for data processing, used Principal Component Analysis to reduce dimensionality and remove noise, used Python libraries such as seaborn and pie charts for visual presentation, and used Latex to the layout. 
+
+2. International Kaleidoscope Innovation Challenge of Fudan University (FISF EMF ICC) 01/2022
+* Worked with team members to complete a business plan on green finance and sustainable development, and proposed
+solutions to promote the development of green views from the perspective of enterprises, government, and the public. 
+* Conducted an English presentation, and received positive comments from the team members.                     
+
+---
+
+# Practical Experience
+
+1. Student Union; Head of Outreach Department 07/2021-07/2022
+* Responsible for liaising with large off-campus businesses, and establishing long-term sponsorship partnerships. 
+* Coordinated matters between the Outreach Department and other departments, organized school-level activities, provided material support, and received the honor of Outstanding Department Staff. 
+
+2. International Organization for Sustainable Development Program 05/2021-07/2021
+* Only 150 people globally. As the team captain, developed a global perspective and organizational coordination skills
