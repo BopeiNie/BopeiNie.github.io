@@ -2,10 +2,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Wenshuo ZHANG</h1>
+      <h1>Bopei Nie</h1>
       <p><b>Undergraduate Student</b></p>
-      <p><b>Automation, Faculty of Electronic and Information Engineering, Xi'an Jiaotong University</b></p>
-      <p><b>Mail：zhang_wenshuo@foxmail.com(You can also connect me at wsZHANG0626@gmail.com)</b></p>
+      <p><b>Mathematical economics and finance, Jinhe Economic Research Center, Xi'an Jiaotong University</b></p>
+      <p><b>Mail：niebopei@163.com / niebopei@gmail.com</b></p>
       <p><b>Past Area: UAV, Machine Learning for Finance, Deep Learning(Graph-NN)</b></p>
       <p><b>Current Area: AIGC for iamge</b></p>
       <p><a href="/index-en.html">English Version</a></p>
